@@ -1,0 +1,12 @@
+.container__boas__vindas {
+  position: absolute;
+  top: 100px;
+  height: 50px;
+  align-items: center;
+  width: 100%;
+  left: 0px;
+}
+
+.boas__vindas__cliente {
+ text-align: center;
+}
